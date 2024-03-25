@@ -1,0 +1,15 @@
+h1{
+    z-index: 1;
+     color: #fff;
+      position: relative; 
+      padding: 100px;
+      
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+}
+
